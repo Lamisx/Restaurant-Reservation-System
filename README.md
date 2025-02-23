@@ -121,7 +121,13 @@ Deposit of 150 successfully made.
 
 ---
 
-## Credits
-Developed by [] for the Data Structures course at .
+Credits
+Developed by the following team from Qassim University under the supervision of Dr. Samar Al-Duaiji for the Data Structures course:
 
+Waad Al-Anzi - GitHub
+Hanan Al-Rashidi - GitHub
+Joury Al-Muhaimid - GitHub
+Lamis Al-Harbi - GitHub
+Layan Al-Suwailim - GitHub
+Rawan Al-Shammasan - GitHub
 ---
