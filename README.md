@@ -125,10 +125,10 @@ Credits
 Developed by the following team from Qassim University under the supervision of Dr. Samar Al-Duaiji for the Data Structures course:
 
 
-(Waad Al-Anzi) - [GitHub]
-Hanan Al-Rashidi - GitHub
-Joury Al-Muhaimid - GitHub
-Lamis Al-Harbi - GitHub
-Layan Al-Suwailim - GitHub
- - [Rawan Al-Shammasan](https://github.com/rawana1)
+- [Waad Al-Anzi](https://github.com/waad13)
+- [Hanan Al-Rashidi](https://github.com/HANANCS451)
+- [Joury Al-Muhaimid](https://github.com/Joury-Muh)
+- [Lamis Al-Harbi](https://github.com/Lamisx)
+- [Layan Al-Suwailim](https://github.com/layanmoha)
+- [Rawan Al-Shammasan](https://github.com/rawana1)
 ---
